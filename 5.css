@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    background-color: darkgrey;
+    height: 130px;
+    padding: 10px;
+    color: rgb(32, 32, 86);
+}
+img{
+    width: 200px;
+    
+    
+    margin-left: 1200px;
+    margin-top: -30px;
+}
+.two ul{
+margin-left: 20px;
+list-style-type: none;
+width: 300px;
+height: 120px;
+}
+.two ul li {
+    padding-bottom: 2px;
+}
+.two ul li a{
+    text-decoration: none;
+    color: black;
+}
+.three{
+    margin-left: 30px;
+}
+.three h2{
+    color:rgb(32, 32, 86); ;
+}
+.three ul{
+    margin-left: 20px;
+}
+.three ul li{
+    padding-bottom: 10px;
+    
+}
+.three ul li a{
+    text-decoration: none;
+    color: black;
+}
+.four{
+    margin-left: 30px;
+}
+.four ul{
+    margin-left: 20px;
+}
+.four ul li{
+    padding-bottom: 8px;
+}
+.four ul li a{
+    text-decoration: none;
+    color: black;
+}
